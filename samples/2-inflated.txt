@@ -1,0 +1,29 @@
+JORDAN BLAKE
+jordan.blake@example.com | +1 555 0199
+
+VISIONARY AI/ML ARCHITECT & FULL-STACK NINJA | GenAI | LLMs | Agentic AI | Web3
+
+SUMMARY
+Results-driven, passionate thought leader with expertise in AI, ML, Deep Learning, NLP, Computer Vision, Generative AI, LLMs, RAG, Agents, MLOps, Big Data, Blockchain, Cloud, DevOps, Microservices and Full-Stack development. Spearheaded transformative AI initiatives that revolutionised businesses.
+
+EXPERIENCE
+Lead AI Architect | NovaSynergy Solutions | Jan 2024 – Present
+- Spearheaded the end-to-end AI transformation of the organisation, increasing revenue by 300%.
+- Architected a cutting-edge agentic LLM platform used by millions of users.
+- Led cross-functional teams to deliver world-class AI solutions.
+
+Senior Full-Stack & ML Engineer | ByteForge Labs | Jun 2023 – Dec 2023
+- Built scalable microservices and ML models improving accuracy by 99%.
+- Implemented RAG, fine-tuning, and vector databases for enterprise clients.
+
+Software Developer | Various clients | 2022 – 2023
+- Developed web applications using modern technologies.
+
+SKILLS
+Python, Java, C++, Go, Rust, JavaScript, TypeScript, React, Angular, Vue, Node.js, Django, Flask, FastAPI, Spring, TensorFlow, PyTorch, Keras, JAX, scikit-learn, Hugging Face, LangChain, LlamaIndex, OpenAI, Pinecone, Weaviate, Kafka, Spark, Hadoop, AWS, GCP, Azure, Kubernetes, Docker, Terraform, Solidity
+
+CERTIFICATIONS
+AI for Everyone (online course), Prompt Engineering Masterclass
+
+EDUCATION
+B.Tech, 2022

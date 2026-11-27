@@ -1,0 +1,21 @@
+SAM RIVERA
+sam.rivera@example.com | +1 555 0123 | github.com/samr-example
+
+JUNIOR DEVELOPER
+
+EXPERIENCE
+Software Engineering Intern | Pinecrest Logistics | Jun 2024 – Dec 2024
+- Built internal dashboards in React and Express for shipment tracking.
+- Wrote Python scripts to clean and merge CSV exports; saved the ops team ~3 hours/week.
+- Fixed 25+ bugs from the team's backlog.
+
+PROJECTS
+- Movie recommender (university capstone): collaborative filtering with scikit-learn; Flask API + React front end. Team of 3; I built the API and deployment on Render.
+- Kaggle Titanic: 0.78 accuracy using gradient boosting; documented feature engineering in a notebook.
+- Personal budget app: Next.js + Supabase, ~40 active users (friends & family).
+
+SKILLS
+Python, JavaScript, React, Node.js/Express, Flask, scikit-learn, pandas, SQL, Git
+
+EDUCATION
+B.S. Computer Science, Oregon State University, 2024

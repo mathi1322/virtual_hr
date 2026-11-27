@@ -1,0 +1,30 @@
+ALEX MORGAN
+alex.morgan@example.com | +1 555 0100 | github.com/alexm-example | Austin, TX
+
+SENIOR SOFTWARE ENGINEER, ML PLATFORM
+7 years building production web apps and ML systems end to end.
+
+EXPERIENCE
+Senior Software Engineer, ML Platform | Brightlane Health | Mar 2022 – Present
+- Built and own the patient-triage model serving stack (FastAPI, PyTorch, Redis, Kubernetes); serves ~2.5M predictions/day.
+- Cut p95 inference latency from 420ms to 180ms by batching requests and moving tokenization off the hot path; measured with load tests before rollout.
+- Introduced offline/online evaluation: shadow deployments + drift dashboards (Evidently, Grafana). Caught a data-pipeline bug that silently dropped 8% of features.
+- Built the clinician-facing review UI in Next.js/TypeScript; reduced manual review time per case from 6 to 3.5 minutes (measured over 4 weeks).
+- Mentor 3 engineers; run the weekly model-incident review.
+
+Software Engineer | Quillstack (Series A SaaS) | Jun 2019 – Feb 2022
+- Full-stack on a document-processing product (React, Node.js, PostgreSQL).
+- Shipped an OCR + classification pipeline (Tesseract → fine-tuned BERT) that automated 60% of incoming document routing.
+- On-call lead for 9 months; wrote the runbooks still in use.
+
+Junior Developer | Fieldnote Agency | Jul 2017 – May 2019
+- Built client websites and internal tools (Django, React).
+
+PROJECTS
+- RAG support assistant (side project): LangChain + pgvector over 20k support tickets; wrote a small eval set of 150 Q/A pairs to compare chunking strategies.
+
+SKILLS
+Python, TypeScript, PyTorch, scikit-learn, FastAPI, Next.js, React, Node.js, PostgreSQL, Redis, Docker, Kubernetes, AWS (EKS, S3, SageMaker), MLflow
+
+EDUCATION
+B.S. Computer Science, University of Texas at Dallas, 2017

@@ -1,0 +1,29 @@
+{
+  "designation": "Senior AI/ML Full-Stack Engineer",
+  "companyContext": "20-person startup, fast pace, engineers own features end to end, tight client deadlines",
+  "cases": [
+    {
+      "file": "1-strong-genuine.txt",
+      "label": "Strong & genuine",
+      "fitIn": ["strong", "promising"],
+      "maxHighRedFlags": 0,
+      "namesThatMustNotLeak": ["Alex", "Morgan", "alex.morgan@example.com"]
+    },
+    {
+      "file": "2-inflated.txt",
+      "label": "Inflated / buzzword-heavy",
+      "fitIn": ["weak", "mixed"],
+      "minHighRedFlags": 1,
+      "minClaimsToVerify": 3,
+      "claimsMustMention": ["300%", "millions", "99%"],
+      "namesThatMustNotLeak": ["Jordan", "Blake", "jordan.blake@example.com"]
+    },
+    {
+      "file": "3-junior.txt",
+      "label": "Junior (wrong level for a senior role)",
+      "fitIn": ["weak", "mixed"],
+      "minGaps": 2,
+      "namesThatMustNotLeak": ["Sam Rivera", "Rivera", "sam.rivera@example.com"]
+    }
+  ]
+}
